@@ -40,7 +40,7 @@ LANGUAGES = (
 )
 
 LOCALE_PATHS = (
-    '/home/mahiti/PracticeProjects/lang_test/locale/',
+    '/home/mahiti/GitPractice/lang_test/locale/',
 )
 
 
